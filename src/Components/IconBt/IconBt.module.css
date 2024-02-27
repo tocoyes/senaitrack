@@ -1,0 +1,13 @@
+.botao {
+    width: 50px;
+    padding: 15px;
+    margin-left: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 500ms;
+  }
+
+  .botao:hover {
+    transform: scale(1.1);
+  }
+

@@ -1,0 +1,11 @@
+.button {
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 1rem;
+  padding: 1rem;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+.button:hover {
+  box-shadow:inset 0px 0px 0px 2px black;
+}

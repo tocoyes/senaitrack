@@ -1,0 +1,113 @@
+.liberarAluno {
+  display: flex;
+  flex-direction: column;
+  margin:2rem;
+  align-items: flex-start;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.noFound{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  margin: 4rem;
+  font-size: 3rem;
+  color: #f4f4f4;
+}
+
+.fieldSearch {
+  font-family: 'Montserrat', sans-serif;
+  color: 'black';
+}
+
+.contentSolicitar {
+  width: 100%;
+  display: flex;
+}
+
+.dadosAlunos {
+  background-color: #f2f2f2;
+  border-radius: 1rem;
+  margin: 0 1rem;
+  display: flex;
+  flex:1;
+  flex-direction: column;
+  padding:1rem
+}
+
+.dadosAlunos h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  
+}
+
+.dadosAlunos p {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 1rem;
+}
+
+.fields {
+  /*background-color: aqua;*/
+  border-radius: 1rem;
+  margin: 0 1rem;
+  display: flex;
+  flex:3;
+  flex-direction: column;
+  max-height: 420px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.motivo {
+  background-color: #f1f1f1;
+  width: 20rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  padding:1rem;
+  border-radius:1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: none;
+}
+
+.idade {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+} 
+
+.idade p {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: .5rem;
+}
+
+.obs{
+  background-color: #f1f1f1;
+  width: 20rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  padding:1rem;
+  border-radius:1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: none;
+}
+
+@media (max-width:600px) {
+  .contentSolicitar {
+    flex-wrap: wrap;
+  }
+
+  .dadosAlunos {
+    margin:1rem;
+  }
+
+  .fields {
+    max-height: unset;
+  }
+}

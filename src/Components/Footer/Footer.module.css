@@ -1,0 +1,67 @@
+.footer {
+  display:flex;
+}
+
+.btMenu {
+  flex:1;
+  background-color: #f4f4f4;
+  border-radius: 1rem;
+  margin: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+
+.btMenu:hover {
+  background-color: silver;
+  cursor: pointer;
+  color:red;
+}
+
+.iconListar {
+  margin-left: 1rem;
+}
+.iconSolicitar{
+  margin-left: 1rem;
+}
+.iconPendencias{
+  margin-left: 1rem;
+}
+.iconCriarUsuario{
+  margin-left: 1rem;
+}
+.iconLiberar{
+  margin-left: 1rem;
+}
+
+.noLogin{
+  display: flex;
+  background-color: rgb(241, 241, 241);
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  color:gray;
+  text-align: center;
+  font-size: .8rem;
+}
+
+@media (max-width:600px) {
+  .noLogin{
+    padding: 1rem;
+  }
+
+  .footer {
+    display:flex;
+   flex-wrap: wrap;
+  }
+
+  .btMenu {
+   min-width: 140px;
+   min-height: 80px;
+   margin: .5rem
+  }
+  
+}

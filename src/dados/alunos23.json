@@ -1,0 +1,2431 @@
+[
+  {
+    "id": "22135875",
+    "name": "ABNER LO-RUAN COELHO ZEQUI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138367",
+    "name": "ACKIN MAIOCHI LINO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23137969",
+    "name": "ADRIAN DANIEL RAMALHO SOARES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22136275",
+    "name": "ADRIAN LUIZ DE SOUZA PEDRO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138002",
+    "name": "ALAN VECHETIN BRANDAO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138343",
+    "name": "Alex Carvalho da Silva",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138257",
+    "name": "ALEX SANDRO THEODORO RODRIGUES DE AZEVEDO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23137953",
+    "name": "ALEXANDRO FELIX DOS PRAZERES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138470",
+    "name": "ALEXSANDRO DA SILVA BRUCIERI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138001",
+    "name": "ALLAN DA SILVA OLIVEIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138075",
+    "name": "ANA CAROLINA COSTA DE DEUS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138172",
+    "name": "Ana Caroline Ferreira Afonso",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23137970",
+    "name": "ANA CLÁUDIA FERNANDES DE SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138074",
+    "name": "Ana Julia Furlan Vieira",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138145",
+    "name": "ANA JÚLIA LIVIGHI",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138395",
+    "name": "ANALI CRISTINA CREPSCKI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138003",
+    "name": "ANDREY RAFAEL PRADO GARCIA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23137972",
+    "name": "ANNA CLARA DA SILVA SANTOS LIMA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23137973",
+    "name": "ARISTidES BANDELI NETO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138173",
+    "name": "Arthur Silva de Souza",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135951",
+    "name": "BEATRIZ CARDOSO FERREIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138158",
+    "name": "Beatriz Fratuchelli",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138216",
+    "name": "BEATRIZ GABRIELLY DE FALCO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23137974",
+    "name": "BEATRIZ GABRIELY DE PAULA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138653",
+    "name": "BEATRIZ KAROLAINE SILVA CARNEIRO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135666",
+    "name": "BEATRIZ MARQUES VALENTIM",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135841",
+    "name": "BEATRIZ SILVA CARDOZO DOS SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138076",
+    "name": "Bianca Fontanetti Ramos",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23137975",
+    "name": "BRENDA LEidIELY DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135648",
+    "name": "BRENO ROBERTO SCHNEidER SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22136010",
+    "name": "BRUNA APARECidA DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22234412",
+    "name": "BRUNO LOURENZEN",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138780",
+    "name": "BRYAN BENITES FRANCO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135624",
+    "name": "BRYAN HENRIQUE MUNIZ",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "22135843",
+    "name": "CAILLOU RAPHAEL SCHIAVETTE",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138364",
+    "name": "CAIO HENRIQUE DELACOLLETTA RAIMUNDO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22136005",
+    "name": "CAIO MAURICIO FERRAZ BILATO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22135554",
+    "name": "CAIO SOUZA LIMA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138165",
+    "name": "CARLA CATARINE GURNHAK DE CARVALHO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135555",
+    "name": "CARLOS EDUARDO DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22136239",
+    "name": "CARLOS EDUARDO JUNIOR DE SOUZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22135617",
+    "name": "CARLOS EDUARDO LEÃO BORTOLOTE",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138363",
+    "name": "CARLOS HENRIQUE FIORAMONTE DE PADUA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23139482",
+    "name": "CAROLINE LEBRÃO DOS SANTOS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23137954",
+    "name": "CAUÃ HENRIQUE BEVILAQUA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23137976",
+    "name": "CAUÃ RIBEIRO SENTINELLA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138086",
+    "name": "CAUÃ SANTOS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135664",
+    "name": "CAUÊ OSVALDO DO NASCIMENTO SOARES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "23138217",
+    "name": "CHARLES GUILHERME PEREIRA DE MENEZES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135937",
+    "name": "CHIARA MANEO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23137977",
+    "name": "CLAUDIO JOEL DE SOUZA RAMALHO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138218",
+    "name": "CLAYTON GABRIEL LOPES DO CARMO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135632",
+    "name": "CYBELLE VICTORIA DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138219",
+    "name": "DANIEL HIEI GOTO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138396",
+    "name": "DANIEL RIBEIRO DA COSTA MARQUES",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138206",
+    "name": "DANIEL THEODORO GUARIENTO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138347",
+    "name": "DANIELLE DIAS DOS SANTOS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135848",
+    "name": "DANILO ROBERTO SANTOS DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23137978",
+    "name": "DANILO RYAN DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138220",
+    "name": "DAVI BASCHIERA DE FREITAS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135876",
+    "name": "DAVI RIBEIRO DA COSTA MARQUES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135615",
+    "name": "DAVid SOUSA ALVES DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "23138317",
+    "name": "DÉBORA PAULINA MELO DINIZ",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135619",
+    "name": "DIOGO HENRIQUE VIEIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "23138314",
+    "name": "DOUGLAS DOS REIS CASTELLO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138221",
+    "name": "EDIVAR BARRETO FORMIGA NETO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135675",
+    "name": "EDUARDO DOS SANTOS GUIMARÃES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135612",
+    "name": "EDUARDO FERNANDO DA CRUZ",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22135980",
+    "name": "EDUARDO MARIANO DE LOLLO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22234408",
+    "name": "ELIEDSON FERREIRA SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22135767",
+    "name": "EMANUELLE DE MORAES MOREIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138184",
+    "name": "EMILY RODRIGUES",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135877",
+    "name": "ENZO PEREIRA DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138004",
+    "name": "ERICK FELIPE ASSUNÇÃO COELHO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135878",
+    "name": "ERICK GUSTAVO OLIVEIRA DOS SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135611",
+    "name": "ESDRAS MOREIRA DE SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22135641",
+    "name": "ESTER DE LIMA SEBASTIÃO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138198",
+    "name": "EZEQUIEL ANTONIO FERREIRA NOVAIS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "22135660",
+    "name": "FELIPE KAUÊ FALDONI DE GODOI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135560",
+    "name": "FELIPE SOUSA ALVES OLIVEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22135561",
+    "name": "FRANCISCO BRUNO MARTINS DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23137955",
+    "name": "GABRIEL ALVES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135634",
+    "name": "GABRIEL BARDEJA DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135562",
+    "name": "GABRIEL BORGES DA SILVA ZUTIN",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23137979",
+    "name": "GABRIEL DAS CHAGAS LISBOA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22136006",
+    "name": "GABRIEL DE JESUS PENA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138207",
+    "name": "GABRIEL FELIPE GOMES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138256",
+    "name": "GABRIEL GABOLI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138222",
+    "name": "GABRIEL HENRIQUE APARECidO DE OLIVEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138208",
+    "name": "GABRIEL HENRIQUE JANUARIO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135606",
+    "name": "GABRIEL SANTIAGO PAES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138146",
+    "name": "GABRIELA DE CARVALHO COSTA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23137980",
+    "name": "GABRIELE TAINARA FELICidADE",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138077",
+    "name": "GABRIELY INGRidY SEBASTIÃO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23137981",
+    "name": "GILSON FERNANDO OLIVEIRA DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138348",
+    "name": "GIOVANA RODRIGUES DOS SANTOS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138259",
+    "name": "GIOVANNA DE MORAIS RODRIGUES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138006",
+    "name": "GIOVANNA LETICIA BRITO RIBEIRO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138223",
+    "name": "GIOVANNI EDERALDO ALMEidA BEDESCHI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135938",
+    "name": "GIULIA BRACIOLI DANTAS CIANI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138174",
+    "name": "GIULIA DE PADUA ANTUNIS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135652",
+    "name": "GLEUVISON PEREIRA DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "23138200",
+    "name": "GLEYDSON GABRIEL BARROS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "22135778",
+    "name": "GRAZIELA FERNANDES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "23137957",
+    "name": "GUILHERME DE MELO PEREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23137958",
+    "name": "GUILHERME RODRIGUES DA CONCEIÇÃO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135650",
+    "name": "GUILHERME VINICIUS LUNARDELLI PINTO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135776",
+    "name": "GUSTAVO DIAS DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22135880",
+    "name": "GUSTAVO FERREIRA DE MEDEIROS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135869",
+    "name": "GUSTAVO HENRIQUE MILLON BARBOZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22135945",
+    "name": "GUSTAVO HENRIQUE NEVES DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138262",
+    "name": "GUSTAVO HENRIQUE RODRIGUES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135692",
+    "name": "GUSTAVO RODRIGUES IZidORO DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135596",
+    "name": "GUSTAVO TESCHE",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135597",
+    "name": "GUSTAVO ZAGUE MAGALHÃES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "23138224",
+    "name": "HÉBER MATHEUS FELISBINO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22136139",
+    "name": "HELEN TITO GOMES BELINASSI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "23138185",
+    "name": "HENRIQUE BASCHIERA DALGÉ",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135564",
+    "name": "HENRIQUE LUIZ JUSTINO DE PAULA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23139069",
+    "name": "HENRY SOUZA DO NASCIMENTO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135602",
+    "name": "HILDEBRANDO FELIPE FAUSTINO TESTA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "22135719",
+    "name": "IGOR HENRIQUE MOREIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135598",
+    "name": "IGOR LIAN BERTOLINO DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "23138315",
+    "name": "IGOR MARIANO PICAGLI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138061",
+    "name": "IGOR OLIVEIRA DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "22136393",
+    "name": "IGOR THOMAS CARDOSO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138166",
+    "name": "ISABELLA MARIA ZAMBELLI",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138167",
+    "name": "ISABELLA MARQUES BARCELLOS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135768",
+    "name": "ISABELLE CHIAROTTO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138147",
+    "name": "ISABELLI CARBINATTO FREIRE",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138186",
+    "name": "ISABELLY HELOISA CARDOSO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138781",
+    "name": "ISABELLY RICCI DE CAMARGO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138201",
+    "name": "ISAQUE SABINO CALISTO VALIN",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138361",
+    "name": "IZABELY DO NASCIMENTO RODRIGUES DE CAMPOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135888",
+    "name": "JEAN CARLO NUNES CORREA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138209",
+    "name": "JEAN CARLOS SANTOS QUEIROZ",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138225",
+    "name": "JEAN CARLOS SANTOS QUEIROZ",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138316",
+    "name": "JÉSSICA CRISTINA TEIXEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138181",
+    "name": "JÉSSICA MARIANA ROBERTO CUNHA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138366",
+    "name": "JHENYFER CAMILE DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138087",
+    "name": "JOANNA DIAS PEREIRA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23137982",
+    "name": "JOÃO FERNANDO DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22136391",
+    "name": "JOÃO HYPOLITO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135599",
+    "name": "JOÃO PEDRO CAVARSAN SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135850",
+    "name": "JOÃO PEDRO COSTA GOMES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138255",
+    "name": "JOÃO PEDRO DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138078",
+    "name": "João Pedro Faria Lorencetti",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135621",
+    "name": "JOÃO PEDRO FERRAZ BERGAMIN",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "23137983",
+    "name": "JOÃO PEDRO MENDES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138007",
+    "name": "JOÃO PEDRO SILVA SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23137984",
+    "name": "JOÃO VICTOR BATISTA FERREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23137959",
+    "name": "JOÃO VICTOR MARQUI CAMPOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138008",
+    "name": "JOÃO VICTOR MARTINS VIANA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138009",
+    "name": "JOÃO VICTOR MONTEIRO DE SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23137985",
+    "name": "JOÃO VINICIUS MOURO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135773",
+    "name": "JOÃO VITOR ARCHANGELO ZORÉ",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138010",
+    "name": "JOÃO VITOR CÂMARA SORRATINI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23137986",
+    "name": "JOÃO VITOR LOPES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138160",
+    "name": "JOHN WILLIANS CASSEANO DA COSTA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135667",
+    "name": "JONATHAN DA SILVA AMORIM",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "23138011",
+    "name": "JONATHAN WILLIAN GIRARDELLI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22136295",
+    "name": "JONATHAN WILLIAN GIRARDELLI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22135566",
+    "name": "JOSÉ LUIZ FILHO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23237743",
+    "name": "JOSÉ MÁRIO DE PAULA ARAUJO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23137987",
+    "name": "JUAN EDUARDO MANARA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138202",
+    "name": "JUAN GABRIEL BETEGUELLA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138079",
+    "name": "JÚLIA PAES DE ARRUDA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138168",
+    "name": "JULIA RAFAELA DOS SANTOS MEDEIROS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135763",
+    "name": "JULIANA ZAGUE DIAS MOTA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135569",
+    "name": "JULIO CESAR PAPEZZO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138344",
+    "name": "KADUÃ PIGATTO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135940",
+    "name": "KALEB SILVA DA PURIFICAÇÃO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23137988",
+    "name": "KAMILA YGNACIO GONÇALVES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23137989",
+    "name": "KAMILY APARECidA BERNARDE",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23137960",
+    "name": "KARLA EDUARDA LIRA DE MOURA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135859",
+    "name": "KAUÃ GABRIEL DA COSTA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23137990",
+    "name": "KAUÃ RODRIGO ALVES DE LIMA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135881",
+    "name": "KAUÃ VINICIUS WEIBEL CANDidO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135770",
+    "name": "KAUAN GABRIEL NASCIMENTO SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135623",
+    "name": "KAUAN LEME",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "22135720",
+    "name": "KAUAN NOIA LEME DE SOUZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138012",
+    "name": "KAYLANE ALEIXO BERNARDO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135646",
+    "name": "KELVIN FELICIO MAXIMO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22135570",
+    "name": "KELVIN HIROSHI SOUZA PINTO MUTO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138386",
+    "name": "KETLYN YASMIN SANTOS SOUSA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23137991",
+    "name": "LAIS DE OLIVEIRA MACEDO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138175",
+    "name": "LAIZA CRISTINA LOPES",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135672",
+    "name": "Leandro Dizaró de Carvalho",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138649",
+    "name": "LEANDRO HENRIQUE LUIZ PEREIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138227",
+    "name": "LEIRY BRUNELLY THOMAZINI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138228",
+    "name": "LEONARDO DE LIMA NICOLETTO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135654",
+    "name": "LEONARDO MURILO CAVALCANTE MENDES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135571",
+    "name": "LEONARDO NOGUEIRA MARTINS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138345",
+    "name": "Letícia Campagna",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135721",
+    "name": "LETICIA FERNANDA PESSOA DE OLIVEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138176",
+    "name": "Letícia Gabriela Bueno",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23137992",
+    "name": "LETÍCIA KAUANNY JOSÉ TIAGO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138187",
+    "name": "LIVIA VITORIA CASSEZE",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22136009",
+    "name": "LOHANY DOS SANTOS FRANCISCO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138210",
+    "name": "LUAN DA SILVA TUTINI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135941",
+    "name": "LUAN LOPES SOUSA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22136207",
+    "name": "LUAN TEIXEIRA DE SOUZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138080",
+    "name": "LUCAS CASIMIRO SILVA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138229",
+    "name": "LUCAS CORREA VILEGAS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138169",
+    "name": "LUCAS DE SOUZA ZUTIN",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138211",
+    "name": "LUCAS DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138263",
+    "name": "LUCAS EDUARDO BARBI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138148",
+    "name": "Lucas Fogalli Polisel",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23137993",
+    "name": "LUCAS GABRIEL COSMO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138357",
+    "name": "LUCAS GABRIEL SPATTI DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22136004",
+    "name": "LUCAS RAFAEL RODRIGUES DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135722",
+    "name": "LUCCA BERETTA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138088",
+    "name": "LUCCA DE FARIA VIEIRA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138177",
+    "name": "LUCCAS GABRIEL PASSERI FERREIRA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23137994",
+    "name": "LUÍS OTÁVIO BARBOSA CARVALHO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135863",
+    "name": "LUIZ AUGUSTO CURTOLO DE SOUZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23137961",
+    "name": "LUIZ HENRIQUE DE LUCCAS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22136240",
+    "name": "MACÍLIO LIMA DE QUEIROZ",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138149",
+    "name": "MAITÊ LEME PEREIRA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138150",
+    "name": "MARCELLO TROVA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135613",
+    "name": "MARCELO DE SOUZA CARVALHO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "23138212",
+    "name": "MÁRCIO FRANCISCO SPATTI FILHO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135970",
+    "name": "MARCOS ANTONIO DOS SANTOS GUEDES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "22135645",
+    "name": "MARCOS ANTONIO GOMES DA SILVA FILHO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "23138151",
+    "name": "MARIA EDUARDA BARGAS DA COSTA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138152",
+    "name": "MARIA EDUARDA GIRARDELLI",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138153",
+    "name": "MARIA EDUARDA PEREIRA DE JESUS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135638",
+    "name": "MARIA EDUARDA PINTO DE OLIVEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138154",
+    "name": "MARIA IZABEL MUNIZ SOARES",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138260",
+    "name": "MARIA JULIA GOMES DE JESUS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138349",
+    "name": "MARIA LAURA FURLANETTO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23139068",
+    "name": "MARIA OLIVIA TURATTI LAUREANO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138204",
+    "name": "MATEUS BOSCOLO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138261",
+    "name": "MATEUS HENRIQUE SILVA ANDRADE",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138213",
+    "name": "MATHEUS ANACLETO DE OLIVEIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138264",
+    "name": "MATHEUS CABOCLO DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138081",
+    "name": "Matheus do Nascimento Silva",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135659",
+    "name": "MATHEUS GIROTTO MÁXIMO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "23138267",
+    "name": "MATHEUS HENRIQUE ARAUJO SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138268",
+    "name": "MATHEUS HENRIQUE DE FALCO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23137995",
+    "name": "MATHEUS HENRIQUE MARTINS PEREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138270",
+    "name": "MATHEUS JANUÁRIO BATISTA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135620",
+    "name": "MATHEUS MADUREIRA DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22135647",
+    "name": "MATHEUS MARQUES BARCELLOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138383",
+    "name": "MATHEUS PIOVESAN SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23137996",
+    "name": "MATHEUS RODRIGO GONCALVES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138182",
+    "name": "Matheus Rosa Rodrigues",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135923",
+    "name": "MATHEUS TENORIO DE SOUZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23137997",
+    "name": "MAYANDRA ISTEFANE CARDOSO RODRIGUES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135600",
+    "name": "MAYRA KETYLIN FORTE DO LAGO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135670",
+    "name": "MURILO ANDERSON COSTA GONÇALVES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135614",
+    "name": "MURILO HENRIQUE DIONISIO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22136022",
+    "name": "MURILO HENRIQUE DIONISIO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135661",
+    "name": "NICKOLAS GALVÃO PEREIRA PERRETI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "23138258",
+    "name": "NICOLAS FERNANDES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138481",
+    "name": "NICOLAS GABRIEL TARIFA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138214",
+    "name": "NICOLLAS LUCAS KREPSCHI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135765",
+    "name": "NICOLLE MACHADO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "23137998",
+    "name": "OTAVIO CLEMENTE SILVA BALDUINO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "23138784",
+    "name": "OTTO OLIVEIRA LOPES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22136206",
+    "name": "PAULO BARGERI SENTINELLA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138015",
+    "name": "PAULO CÉSAR GUARIENTO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135637",
+    "name": "PEDRO AUGUSTO TARIFA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138465",
+    "name": "PEDRO GABRIEL CLAUDIO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22136020",
+    "name": "PEDRO GABRIEL TANGERINO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "23138155",
+    "name": "PEDRO HENRIQUE CLAUDINO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138271",
+    "name": "PEDRO HENRIQUE DA SILVA MEDEIROS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138215",
+    "name": "PEDRO HENRIQUE DE CASTRO MATEUS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138082",
+    "name": "Pedro Henrique Dias Cornea",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135575",
+    "name": "PEDRO HENRIQUE DOS SANTOS HARTZ",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138707",
+    "name": "Pedro Henrique Luiz",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135669",
+    "name": "PEDRO HENRIQUE MAIOCHI BINOTTO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135883",
+    "name": "PEDRO HENRIQUE MATTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23137999",
+    "name": "PEDRO HENRIQUE MENDES DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135860",
+    "name": "PEDRO HENRIQUE SOARES ALVES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138170",
+    "name": "PEDRO SANTANA PIRES",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138000",
+    "name": "PÉROLA APARECidA MENEGHIN",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135865",
+    "name": "PIETRO PALAVER CARDOZO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138178",
+    "name": "RAFAEL ADRIAN COELHO SANTOS",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135775",
+    "name": "RAFAEL ALEXANDRE BRESSAN",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "22135576",
+    "name": "RAFAEL ALVES BRAGA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138269",
+    "name": "RAFAEL FERNANDES FERREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138016",
+    "name": "RAFAEL HENRIQUE DA SILVA BUENO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23137965",
+    "name": "RAFAEL RAMOS DE AMARAL",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "22135874",
+    "name": "RAFAEL SOUZA DE SANTANA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138017",
+    "name": "RAQUEL FERNANDES MOREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138083",
+    "name": "REBEKA APPARECidA SCALABRINE",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138272",
+    "name": "RENAN DE ALMEidA OLIVEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "23138365",
+    "name": "RENAN LEMOS DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135942",
+    "name": "RENAN VITOR SANTOS DE JESUS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138273",
+    "name": "RENATA LEMOS DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135891",
+    "name": "RIAN DE SANTANA SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138018",
+    "name": "RICHARD GABRIEL ELIAS CERQUEIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135924",
+    "name": "ROBSON EDUARDO GONÇALVES JÚNIOR",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138380",
+    "name": "RUAN MONTEIRO DE SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138019",
+    "name": "RYAN DE OLIVEIRA VIEIRA DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138205",
+    "name": "RYAN LOPES DE ALMEidA PAES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "22136008",
+    "name": "SABRINA QUARESMA DA SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135723",
+    "name": "SAMUEL CARRASCOSA RAGANICHI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138183",
+    "name": "SAMUEL FARIA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138275",
+    "name": "SAMUEL RODRIGUES SILVA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22136326",
+    "name": "SAMUEL ZANÓBIO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "22135577",
+    "name": "SILVIO HENRIQUE SANTOS BENEDETTI",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138156",
+    "name": "Sofia Bonato",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138346",
+    "name": "SOPHIE GONÇALVES",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138020",
+    "name": "STEFANY FRANCO DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138021",
+    "name": "STEPHANY LIMA VIEIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135749",
+    "name": "SUHELLEN DE JESUS MONTEIRO FRANCISCO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135889",
+    "name": "TAINARA LUANA VIEIRA DOS SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138022",
+    "name": "TALLES HENRIQUE ALVES DA ROCHA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138023",
+    "name": "TAMIRES DUARTE DE SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138484",
+    "name": "THIAGO HENRIQUE PAIVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMA"
+  },
+  {
+    "id": "22135579",
+    "name": "THIAGO LUIZ DO NASCIMENTO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "23138387",
+    "name": "VERA LUCIA DE MIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Injetora de Plástico",
+    "turma": "T2-OIP"
+  },
+  {
+    "id": "23138359",
+    "name": "VICTOR CELIO OLIVEIRA SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138313",
+    "name": "VICTOR DE LIMA NASCIMENTO TEODORO",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138024",
+    "name": "VICTOR HUGO SANCHES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "22135601",
+    "name": "VICTOR HUGO SOARES DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Operador de Processos na Indústria de Alimentos",
+    "turma": "T4-OPA"
+  },
+  {
+    "id": "22135943",
+    "name": "VICTOR LEONARDO RIBEIRO",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22135766",
+    "name": "VICTOR SAMUEL DE ALMEidA FERREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138277",
+    "name": "VIKTOR GABRIEL PEREIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135948",
+    "name": "VINICIUS DA LUZ BARBOZA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138084",
+    "name": "Vinicius de Oliveira Thomaz Quirino",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138025",
+    "name": "VINICIUS GABRIEL SANTOS DE SOUZA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138085",
+    "name": "VINÍCIUS GOMES PRONI",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138171",
+    "name": "VINICIUS GOTARDI PESTANA",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "22135642",
+    "name": "VINICIUS ROGÉRIO BORGES",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "23138274",
+    "name": "VINICIUS SALVADOR",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135618",
+    "name": "VINICIUS SANTOS QUEIROZ",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Ferramenteiro de Moldes para Plásticos",
+    "turma": "M4-FMP"
+  },
+  {
+    "id": "23137966",
+    "name": "VITOR EDUARDO WEIBEL RUBINI",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Eletricista de Manutenção Eletroeletrônica",
+    "turma": "T2-EME"
+  },
+  {
+    "id": "23138157",
+    "name": "Vitor Fogalli",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "I1-TEES"
+  },
+  {
+    "id": "23138089",
+    "name": "VITOR FRAZÃO PIMENTA CAETANO",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "23138026",
+    "name": "VITOR GABRIEL MOREIRA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138278",
+    "name": "VITOR HUGO RODRIGUES DE OLIVEIRA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  },
+  {
+    "id": "22135962",
+    "name": "VITÓRIA EMILLY COSTA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22135944",
+    "name": "VITORIA LETICIA RODRIGUES DOS SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "22135630",
+    "name": "WENDEL GUSTAVO MARTINS DOS SANTOS",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Usinagem",
+    "turma": "M4-MU"
+  },
+  {
+    "id": "22135649",
+    "name": "WESLEY MOURA DA SILVA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Caldeireiro",
+    "turma": "T4-CAL"
+  },
+  {
+    "id": "22136390",
+    "name": "WESLLEY EDUARDO ZANCA",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22135636",
+    "name": "WILLIAM ANTONIO PEREIRA JUNIOR",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22234399",
+    "name": "WILLIAN RAFAEL MENDES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "N4-TM"
+  },
+  {
+    "id": "22136392",
+    "name": "WILSON ROBERTO DE MORAES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletroeletrônica",
+    "turma": "M4-TEE"
+  },
+  {
+    "id": "23138179",
+    "name": "Yasmin Caroline Gomes",
+    "tipo": "Itinerário de Formação Técnica e Profissional",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "I1-TMS"
+  },
+  {
+    "id": "22135673",
+    "name": "YASMIN DE OLIVEIRA POIAN",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "22135724",
+    "name": "YASMIN EDUARDA MENDES DOS SANTOS",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Mecatrônica",
+    "turma": "T4-TM"
+  },
+  {
+    "id": "23138027",
+    "name": "YASMIN FRANKIN PESSOA",
+    "tipo": "Aprendizagem Industrial",
+    "curso": "Mecânico de Manutenção",
+    "turma": "T2-MMB"
+  },
+  {
+    "id": "23138279",
+    "name": "YASMIN NAYARA GONÇALVES",
+    "tipo": "Curso Técnico",
+    "curso": "Técnico em Eletromecânica",
+    "turma": "M2-TEM"
+  }
+]

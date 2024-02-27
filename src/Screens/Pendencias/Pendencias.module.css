@@ -1,0 +1,22 @@
+.pendencias {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  padding:2rem;
+  align-items: flex-start;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.noFound{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  margin: 4rem;
+  font-size: 3rem;
+  color: #f4f4f4;
+}

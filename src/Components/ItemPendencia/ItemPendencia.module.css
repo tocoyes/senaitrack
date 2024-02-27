@@ -1,0 +1,43 @@
+.item{
+  width:15rem;
+  border-radius: 1rem;
+  margin: 0 1rem 1rem 1rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 15px 10px;
+  background-color:#f4f4f4;
+}
+.title{
+  font-family: 'Montserrat', sans-serif;
+  padding: 1rem;
+  font-weight: 700;
+  text-align: center;
+  width: 100%;
+}
+.curso{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: .8rem;
+  width: 100%;
+}
+.desc{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.hora{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 0 3rem 1rem 3rem;
+  width: 100%;
+}

@@ -1,0 +1,48 @@
+.login {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /*min-height: 100vh;*/
+  gap: 2rem;
+  height: 100%;
+}
+
+.login::before {
+  display: block;
+  content: '';
+  background: url('./../../images/login_background.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.forms {
+  display:flex;
+  flex-direction: column;
+  padding:4rem 8rem 0 2rem;
+  align-items: flex-start;
+}
+
+.title {
+  margin-bottom:2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.warning {
+  margin-top:2rem;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+}
+
+@media (max-width: 600px) {
+  .login{
+    display:flex;
+    flex-direction: column;
+    gap:0;
+  }
+  .login::before {
+    display: none;
+  }
+
+  .forms {
+    padding:2rem
+  }
+}
