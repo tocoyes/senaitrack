@@ -3449,6 +3449,215 @@
     "curso": "Mecânico de Manutenção",
     "turma": "T3-MMP",
     "tipo": "Aprendizagem Industrial"
-   }
- 
+   },
+   {
+      "id": "24143550",
+      "name": "LUANA ROBERTA NORI",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143553",
+      "name": "MATHEUS SGARBOZZA DE JESUS",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143554",
+      "name": "VINICIUS FERREIRA DE SOUZA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143587",
+      "name": "GENILZA LAURINDO DA SILVA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143552",
+      "name": "MATHEUS HENRIQUE BOY LONGOBARDI",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143589",
+      "name": "LUCAS ROCHA GIL DE SOUZA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143586",
+      "name": "ARTUR VIEIRA LUVISOTO",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143591",
+      "name": "MATHEUS FERNANDES DO NASCIMENTO",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143549",
+      "name": "JULIANA ALVES MOREIRA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143546",
+      "name": "ANA CAROLINA BORTOLOTO MOREIRA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143548",
+      "name": "BRENDA GOMES DOS SANTOS",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143592",
+      "name": "THEME CARDOSO COLITTE",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143547",
+      "name": "BEATRIZ SOUZA GODOI",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143618",
+      "name": "ANA JULIA ALTOE",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143551",
+      "name": "MARIA EDUARDA SANTOS",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24143590",
+      "name": "LUIS JOVINO DOS SANTOS NETO",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Programa de Aprendizagem Industrial em Processos Administrativos",
+      "turma": "M1-PPAR"
+     },
+     {
+      "id": "24142478",
+      "name": "MARIA EDUARDA DOS SANTOS PINTO",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142483",
+      "name": "VITÓRIA FERNANDES FATEL",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142713",
+      "name": "KENEDI SANTOS ALMEIDA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142475",
+      "name": "GABRIELLY VICTÓRIA DE ARAÚJO SILVA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142482",
+      "name": "SHINDY KEMELLY LUZ PEREIRA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142479",
+      "name": "MARIA EDUARDA MANETA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142476",
+      "name": "GETULIO JOSÉ CIRILO DA SILVA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142484",
+      "name": "ROBERT RAMOS DA CRUZ",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142614",
+      "name": "GRACIELE DOS REIS",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142615",
+      "name": "STEFANNY GABRIELLI DIAS DA SILVA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142481",
+      "name": "RUBENS PADILHA DOS SANTOS JUNIOR",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142477",
+      "name": "JOÃO PEDRO MARCONDES NISHIURA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142489",
+      "name": "ISABELA ISAC",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     },
+     {
+      "id": "24142480",
+      "name": "MIRELA FERREIRA MOREIRA",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
+      "turma": "T1-MECB"
+     }
 ]
