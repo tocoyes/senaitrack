@@ -3659,5 +3659,19 @@
       "tipo": "Aprendizagem Industrial",
       "curso": "Mecânico de Bombas, Motores, Compressores e Equipamentos de Transmissão",
       "turma": "T1-MECB"
+     },
+     {
+      "id": "24142212",
+      "name": "ADRIAN LUIZ DE SOUZA PEDRO",
+      "tipo": "Aprendizagem Industrial",
+      "curso": "Ferramenteiro de Moldes para Plásticos",
+      "turma": "M2-FMP"
+     },
+     {
+      "id": "24240002",
+      "name": "GABRIEL ALEX DE PADUA FERREIRA",
+      "tipo": "Técnico em Eletromecânica",
+      "curso": "Ferramenteiro de Moldes para Plásticos",
+      "turma": "M4-TEM"
      }
 ]
